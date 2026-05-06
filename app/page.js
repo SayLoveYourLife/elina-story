@@ -24,7 +24,7 @@ fontSize: "12px",
 >
 private story archive </p>
 
-```
+
   <h1
     style={{
       fontSize: "56px",
@@ -76,7 +76,7 @@ private story archive </p>
     for elina
   </p>
 </main>
-```
+
 
 );
 }
