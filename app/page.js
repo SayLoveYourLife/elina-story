@@ -50,19 +50,24 @@ private story archive </p>
     Например, с обычного разговора ночью.
   </p>
 
-  <button
-    style={{
-      marginTop: "40px",
-      padding: "16px 32px",
-      background: "transparent",
-      color: "white",
-      border: "1px solid #444",
-      borderRadius: "16px",
-      cursor: "pointer",
-      fontSize: "18px",
-    }}
-  >
-    начать
+  <a
+href="/story"
+style={{
+marginTop: "40px",
+padding: "16px 32px",
+background: "transparent",
+color: "white",
+border: "1px solid #444",
+borderRadius: "16px",
+cursor: "pointer",
+fontSize: "18px",
+textDecoration: "none",
+}}
+
+>
+
+начать </a>
+
   </button>
 
   <p
